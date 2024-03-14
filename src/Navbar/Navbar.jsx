@@ -13,13 +13,13 @@ function Navbar({ totalcount }) {
         <Link to={'/'}>Home</Link>
       </div>
       <div className=" hover:text-blue-500">
-        <Link to={'/SingUp'}>SingUp</Link>
+        <Link to={'/SingUp'}>SignUp</Link>
       </div>
       <div className=" hover:text-blue-500">
-        <Link to={'/user-dashboard'}>Dipvisa</Link>
+        <Link to={'/user-dashboard'}>Orders</Link>
       </div>
       <div className=" hover:text-blue-500">
-        <Link to={'/Admin'}>Admin</Link>
+        <Link to={'/Admin'}>Account</Link>
       </div>
     </div>
   ) 

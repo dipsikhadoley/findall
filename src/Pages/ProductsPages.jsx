@@ -71,8 +71,8 @@ export const ProductsPages = () => {
               }}
             >
               <option>Sort by Price </option>
-              <option value="lowtohigh"> low to high </option>
-              <option value="hightolow">high to low</option>
+              <option value="lowtohigh"> Low to High </option>
+              <option value="hightolow">High to Low</option>
             </select>
           </div>
 
@@ -85,12 +85,12 @@ export const ProductsPages = () => {
             }}
           >
             <option value="category">Category</option>
-            <option value="laptops">laptops</option>
-            <option value="home-decoration">home-decoration</option>
+            <option value="laptops">Laptops</option>
+            <option value="home-decoration">Home-Decoration</option>
 
-            <option value="smartphones">smartphones</option>
+            <option value="smartphones">Smartphones</option>
 
-            <option value="fragrances">fragrances</option>
+            <option value="fragrances">Fragrances</option>
           </select>
         </div>
       </>

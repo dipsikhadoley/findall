@@ -8,7 +8,7 @@ const Signup = () => {
                 {/* Top Heading  */}
                 <div className="mb-5">
                     <h2 className='text-center text-2xl font-bold text-Black-500 '>
-                        SingUp
+                        SignUp
                     </h2>
                 </div>
                 {/* Input One  */}
@@ -48,6 +48,7 @@ const Signup = () => {
                         type='button'
                         className='bg-purple-500 hover:bg-blue-600 w-full text-white text-center py-2 font-bold rounded-md '
                     >
+                        Signup
                     </button>
                 </div>
                 <div>
